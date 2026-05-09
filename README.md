@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Kangale
 
-💫 **About Me:**  
+#💫 **About Me:**  
 I'm Ashish Kangale, a DevOps Engineer | Cloud & Infrastructure Automation Enthusiast currently pursuing B.Tech in Electronics Engineering at YCCE, Wanadongri, Nagpur with a CGPA of 7.8.
 
 I focus on building real-world DevOps Engineer | Cloud & Infrastructure Automation Enthusiast projects using Docker, Kubernetes, Jenkins, Terraform, AWS, Linux, and Python. Passionate about automation, CI/CD pipelines, Infrastructure as Code (IaC), self-healing systems, and cloud-native technologies.
