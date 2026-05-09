@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ashish Kangale
 
 💫 **About Me:**  
-I'm Ashish Kangale, a DevOps & Cloud Computing enthusiast currently pursuing B.Tech in Electronics Engineering at YCCE, Wanadongri, Nagpur with a CGPA of 7.8.
+I'm Ashish Kangale, a DevOps Engineer | Cloud & Infrastructure Automation Enthusiast currently pursuing B.Tech in Electronics Engineering at YCCE, Wanadongri, Nagpur with a CGPA of 7.8.
 
-I focus on building real-world DevOps and cloud infrastructure projects using Docker, Kubernetes, Jenkins, Terraform, AWS, Linux, and Python. Passionate about automation, CI/CD pipelines, Infrastructure as Code (IaC), self-healing systems, and cloud-native technologies.
+I focus on building real-world DevOps Engineer | Cloud & Infrastructure Automation Enthusiast projects using Docker, Kubernetes, Jenkins, Terraform, AWS, Linux, and Python. Passionate about automation, CI/CD pipelines, Infrastructure as Code (IaC), self-healing systems, and cloud-native technologies.
 
 Currently exploring:
 - DevOps Automation
@@ -18,15 +18,8 @@ Currently exploring:
 
 # 🌐 Socials
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ashish-kangale-16a1b3349/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="mailto:kangaleashish68@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-</p>
+- LinkedIn: <https://www.linkedin.com/in/ashish-kangale-16a1b3349/>
+- Email: <mailto:kangaleashish68@gmail.com>
 
 ---
 
@@ -71,47 +64,16 @@ Currently exploring:
 
 ---
 
-# 📌 Interests
-
-- Cloud Infrastructure
-- Infrastructure as Code (IaC)
-- Kubernetes
-- CI/CD Automation
-- Monitoring Systems
-- Self-Healing Infrastructure
-- Production Engineering
-- Linux Administration
+⭐ Always learning, building, and improving in DevOps & Cloud Engineering.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kangaleashish68&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangaleashish68&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishkangale&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Current Focus
 
-Building production-style DevOps projects focused on:
-- AI-powered self-healing infrastructure
-- Kubernetes-based deployments
-- Jenkins automation pipelines
-- Terraform infrastructure provisioning
-- Cloud-native application deployment
-
----
-
-# ⚡ Core Skills
-
-```text
-Python • Shell Scripting • Linux • Docker • Kubernetes
-Jenkins • AWS • Terraform • Git • GitHub • MySQL
-CI/CD • Infrastructure Automation • Monitoring Systems
-```
-
----
-
-⭐ Always learning, building, and improving in DevOps & Cloud Engineering.
